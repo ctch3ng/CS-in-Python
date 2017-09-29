@@ -15,13 +15,13 @@ Extract all of them to your working directory.
 
 You should now see the following directories in your working directory.
 
-- libtool-2.4.2
+- libtool-2.4.6
 - liblbfgs-1.10
 - pylbfgs
 
 **Step 1. Install libtool**
 
-- cd libtool-2.4.2
+- cd libtool-2.4.6
 - ./configure
 - make
 - sudo make install
