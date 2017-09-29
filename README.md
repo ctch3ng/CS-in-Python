@@ -30,25 +30,17 @@ You should now see the following directories by typing 'ls'
 
 **Step 2. Install libtool**
 
-sudo apt-get install g++ gfortran build-essential automake python-dev 
-
-sudo apt-get install python-setuptools python-numpy
-  
-cd ..
-
-cd liblbfgs-1.10
-
-./configure --enable-sse2
-
-make
-
-sudo make install
+- sudo apt-get install g++ gfortran build-essential automake python-dev 
+- sudo apt-get install python-setuptools python-numpy
+- cd ..
+- cd liblbfgs-1.10
+- ./configure --enable-sse2
+- make
+- sudo make install
   
 **Step 3. Install pylbfgs**
  
-cd ..
-
-cd pylbfgs
-
-python setup.py install
+- cd ..
+- cd pylbfgs
+- python setup.py install
 
