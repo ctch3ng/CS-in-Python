@@ -30,7 +30,7 @@ sudo make install
 
 Step 2. Install libtool
 
-sudo apt-get install g++ gfortran build-essential automake python-dev
+sudo apt-get install g++ gfortran build-essential automake python-dev 
 sudo apt-get install python-setuptools python-numpy
   
 cd ..
