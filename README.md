@@ -23,13 +23,10 @@ You should now see the following directories by typing 'ls'
 
 **Step 1. Install libtool**
 
-cd libtool-2.4.2
-
-./configure
-
-make
-
-sudo make install
+- cd libtool-2.4.2
+- ./configure
+- make
+- sudo make install
 
 **Step 2. Install libtool**
 
