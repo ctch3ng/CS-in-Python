@@ -1,10 +1,10 @@
 # CS-in-Python
-This repository is dedicated for achieving the installation procedures of the tools used in the following blog
+This repository is dedicated for archiving the installation procedures of the tools used in the following blog
 http://www.pyrunner.com/weblog/2016/05/26/compressed-sensing-python/
 
 Copyright (c) 2017 Cheng Chi Tsun
 
-We assume you are working a fresh installation of Ubuntu.
+We assume you are working on a fresh installation of Ubuntu.
 
 1. Download libLBFGS (http://www.chokkan.org/software/liblbfgs/ > Under "Source Code")
   https://github.com/downloads/chokkan/liblbfgs/liblbfgs-1.10.tar.gz
@@ -15,7 +15,7 @@ We assume you are working a fresh installation of Ubuntu.
   
 Extract all of them to your working directory.
 
-You should now see the following directories by typing 'ls'
+You should now see the following directories in your working directory.
 
 - libtool-2.4.2
 - liblbfgs-1.10
