@@ -17,9 +17,9 @@ Extract all of them to your working directory.
 
 You should now see the following directories by typing 'ls'
 
-1. libtool-2.4.2
-2. liblbfgs-1.10
-3. pylbfgs
+- libtool-2.4.2
+- liblbfgs-1.10
+- pylbfgs
 
 **Step 1. Install libtool**
 
