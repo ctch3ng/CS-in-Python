@@ -21,7 +21,7 @@ You should now see the following directories by typing 'ls'
 2. liblbfgs-1.10
 3. pylbfgs
 
-Step 1. Install libtool
+**Step 1. Install libtool**
 
 cd libtool-2.4.2
 
@@ -31,7 +31,7 @@ make
 
 sudo make install
 
-Step 2. Install libtool
+**Step 2. Install libtool**
 
 sudo apt-get install g++ gfortran build-essential automake python-dev 
 
@@ -47,7 +47,7 @@ make
 
 sudo make install
   
-Step 3. Install pylbfgs
+**Step 3. Install pylbfgs**
  
 cd ..
 
