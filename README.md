@@ -17,31 +17,31 @@ Extract all of them to your working directory.
 
 You should now see the following directories by typing 'ls'
 
-  i. libtool-2.4.2
-  ii. liblbfgs-1.10
-  iii. pylbfgs
+i. libtool-2.4.2
+ii. liblbfgs-1.10
+iii. pylbfgs
 
 Step 1. Install libtool
 
-  cd libtool-2.4.2
-  ./configure
-  make
-  sudo make install
+cd libtool-2.4.2
+./configure
+make
+sudo make install
 
 Step 2. Install libtool
 
-  sudo apt-get install g++ gfortran build-essential automake python-dev
-  sudo apt-get install python-setuptools python-numpy
+sudo apt-get install g++ gfortran build-essential automake python-dev
+sudo apt-get install python-setuptools python-numpy
   
-  cd ..
-  cd liblbfgs-1.10
-	./configure --enable-sse2
-  make
-  sudo make install
+cd ..
+cd liblbfgs-1.10
+./configure --enable-sse2
+make
+sudo make install
   
- Step 3. Install pylbfgs
+Step 3. Install pylbfgs
  
-  cd ..
-  cd pylbfgs
-  python setup.py install
+cd ..
+cd pylbfgs
+python setup.py install
 
