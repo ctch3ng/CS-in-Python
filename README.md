@@ -10,7 +10,13 @@ We assume you are working on a fresh installation of Ubuntu 16.04.
   http://ftpmirror.gnu.org/libtool/libtool-2.4.6.tar.gz
 3. Clone pylbfgs (https://bitbucket.org/rtaylor/pylbfgs)
   git clone https://bitbucket.org/rtaylor/pylbfgs.git
-  
+
+or
+```
+wget https://github.com/downloads/chokkan/liblbfgs/liblbfgs-1.10.tar.gz
+wget http://ftpmirror.gnu.org/libtool/libtool-2.4.6.tar.gz
+git clone https://bitbucket.org/rtaylor/pylbfgs.git
+```
 Extract all of them to your working directory.
 ```
 tar -xvzf liblbfgs-1.10.tar.gz
