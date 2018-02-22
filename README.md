@@ -12,7 +12,10 @@ We assume you are working on a fresh installation of Ubuntu 16.04.
   git clone https://bitbucket.org/rtaylor/pylbfgs.git
   
 Extract all of them to your working directory.
-
+```
+tar -xvzf liblbfgs-1.10.tar.gz
+tar -xvzf libtool-2.4.6.tar.gz
+```
 You should now see the following directories in your working directory.
 
 - libtool-2.4.6
